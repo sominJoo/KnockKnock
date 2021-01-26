@@ -12,10 +12,9 @@ android studio를 통해 작성하였고, Mysql DB를 사용하여 데이터를 
 ---
 ## 어플리케이션 화면
 
-![Wait](https://user-images.githubusercontent.com/59429551/105851083-ee1f0980-6025-11eb-9db6-8b719b7989c2.png)
+![Signup](https://user-images.githubusercontent.com/59429551/105851092-efe8cd00-6025-11eb-9459-ea79380c335d.png)
 ![Login](https://user-images.githubusercontent.com/59429551/105851088-eeb7a000-6025-11eb-97a7-7516a3baa194.png)
 ![Main](https://user-images.githubusercontent.com/59429551/105851090-ef503680-6025-11eb-863b-f935780cb5d8.png)
-![Mypage](https://user-images.githubusercontent.com/59429551/105851091-ef503680-6025-11eb-9db1-ee3cd4f2ff02.png)
-![Signup](https://user-images.githubusercontent.com/59429551/105851092-efe8cd00-6025-11eb-9459-ea79380c335d.png)
 ![Store](https://user-images.githubusercontent.com/59429551/105851094-efe8cd00-6025-11eb-8f5e-8fa2774021bd.png)
-
+![Wait](https://user-images.githubusercontent.com/59429551/105851083-ee1f0980-6025-11eb-9db6-8b719b7989c2.png)
+![Mypage](https://user-images.githubusercontent.com/59429551/105851091-ef503680-6025-11eb-9db1-ee3cd4f2ff02.png)
